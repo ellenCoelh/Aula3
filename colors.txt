@@ -2,5 +2,6 @@ Turquesa
 preta
 Colorida
 branca
+roxa
 Furtacor
 
